@@ -96,7 +96,7 @@ I am currently developing my problem-solving skills through programming practice
   <a href="https://github.com/Vijay-Choudhary1">
     <img src="https://img.shields.io/badge/GitHub-Vijay--Choudhary1-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vijay-choudhary-3869a4432/">
+  <a href="https://www.linkedin.com/in/vijay-choudhary-3869a4432?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Vijay%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
