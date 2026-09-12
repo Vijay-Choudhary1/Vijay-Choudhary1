@@ -50,7 +50,7 @@ I am currently developing my problem-solving skills through programming practice
   <a href="https://leetcode.com/u/Vijay_Choudhary1/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
-  <a href="https://www.hackerrank.com/vc587587">
+  <a href="https://www.hackerrank.com/profile/vc587587"hai>
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
